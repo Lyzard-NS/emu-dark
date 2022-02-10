@@ -51,8 +51,8 @@ namespace NettyBaseReloaded.Game.managers
             LoadItems();
             LoadTitles();
             LoadQuests();
-            //LoadClanBattleStations();
-            //LoadEquippedModules();
+            LoadClanBattleStations();
+            LoadEquippedModules();
         }
 
         public void SaveAll()
